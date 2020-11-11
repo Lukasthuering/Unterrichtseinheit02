@@ -1,0 +1,9 @@
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\bin\Debug\Aufgabe A2-1-2.exe.config
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\bin\Debug\Aufgabe A2-1-2.exe
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\bin\Debug\Aufgabe A2-1-2.pdb
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\obj\Debug\Aufgabe_A2_1_2.Form1.resources
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\obj\Debug\Aufgabe_A2_1_2.Properties.Resources.resources
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\obj\Debug\Aufgabe A2-1-2.csproj.GenerateResource.cache
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\obj\Debug\Aufgabe A2-1-2.csproj.CoreCompileInputs.cache
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\obj\Debug\Aufgabe A2-1-2.exe
+C:\Users\LUTHU\Source\Repos\Unterrichtseinheit02\Aufgabe A2-1-2\obj\Debug\Aufgabe A2-1-2.pdb

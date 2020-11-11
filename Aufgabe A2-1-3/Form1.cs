@@ -15,8 +15,6 @@ namespace Aufgabe_A2_1_3
     {
         int value1;
         int value2;
-        string valueOne;
-        string valueTwo;
         int result;
         
         public Form1()
